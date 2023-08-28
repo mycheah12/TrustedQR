@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon2.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\drawable\\icon2.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_safe.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\drawable\\safe.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_suspicious.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\drawable\\suspicious.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_untick1.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\drawable\\untick1.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second2.xml.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\layout\\fragment_second2.xml"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph2.xml.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\navigation\\nav_graph2.xml"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon4.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\drawable\\icon4.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_analysis.xml.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\layout\\activity_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tick1.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\drawable\\tick1.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon1.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\drawable\\icon1.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_analysis2.xml.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\layout\\content_analysis2.xml"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first2.xml.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\layout\\fragment_first2.xml"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_danger.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\drawable\\danger.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon3.png.flat",
+        "source": "C:\\Users\\myche\\Downloads\\QR_CODE_SCANNER-master\\QR_CODE_SCANNER-master\\app\\src\\main\\res\\drawable\\icon3.png"
+    }
+]

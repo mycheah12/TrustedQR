@@ -1,0 +1,83 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.qrcodescanner"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:5:5-65
+11-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:5:22-62
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:6:5-67
+12-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:6:22-64
+13
+14    <application
+14-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:8:5-30:19
+15        android:name="com.example.qrcodescanner.MyApp"
+15-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:9:9-30
+16        android:allowBackup="true"
+16-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.8.0] C:\Users\myche\.gradle\caches\transforms-3\4b9de04955f62bd799b235566e886446\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:extractNativeLibs="false"
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:11:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:12:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:13:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:14:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.QRCODESCANNER" >
+25-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:15:9-51
+26        <activity
+26-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:16:9-20:70
+27            android:name="com.example.qrcodescanner.Analysis"
+27-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:17:13-37
+28            android:exported="false"
+28-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:18:13-37
+29            android:label="@string/title_activity_analysis"
+29-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:19:13-60
+30            android:theme="@style/Theme.QRCODESCANNER.NoActionBar" />
+30-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:20:13-67
+31        <activity
+31-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:21:9-29:20
+32            android:name="com.example.qrcodescanner.MainActivity"
+32-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:22:13-41
+33            android:exported="true" >
+33-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:23:13-36
+34            <intent-filter>
+34-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:24:13-28:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:25:17-69
+35-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:25:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:27:17-77
+37-->C:\Users\myche\Downloads\QR_CODE_SCANNER-master\QR_CODE_SCANNER-master\app\src\main\AndroidManifest.xml:27:27-74
+38            </intent-filter>
+39        </activity>
+40
+41        <uses-library
+41-->[androidx.window:window:1.0.0] C:\Users\myche\.gradle\caches\transforms-3\f9c3bfbed23be0831146ce0404e1d5db\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+42            android:name="androidx.window.extensions"
+42-->[androidx.window:window:1.0.0] C:\Users\myche\.gradle\caches\transforms-3\f9c3bfbed23be0831146ce0404e1d5db\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+43            android:required="false" />
+43-->[androidx.window:window:1.0.0] C:\Users\myche\.gradle\caches\transforms-3\f9c3bfbed23be0831146ce0404e1d5db\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+44        <uses-library
+44-->[androidx.window:window:1.0.0] C:\Users\myche\.gradle\caches\transforms-3\f9c3bfbed23be0831146ce0404e1d5db\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+45            android:name="androidx.window.sidecar"
+45-->[androidx.window:window:1.0.0] C:\Users\myche\.gradle\caches\transforms-3\f9c3bfbed23be0831146ce0404e1d5db\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+46            android:required="false" />
+46-->[androidx.window:window:1.0.0] C:\Users\myche\.gradle\caches\transforms-3\f9c3bfbed23be0831146ce0404e1d5db\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+47    </application>
+48
+49</manifest>
